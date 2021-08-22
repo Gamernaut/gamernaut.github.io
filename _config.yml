@@ -90,12 +90,12 @@ about-description: Here is a little bit about me
 ############  Portfolio  ############
 #####################################
 portfolio-title: Portfolio
-portfolio-description: Learning to code is like learning a natural language, you need to know how to use the (key)words as much as what words to use when. My favouritse coding projects are below and show the range and depth of my coding knowledge.
+portfolio-description: Learning to code is like learning a natural language, you need to know how to use the (key)words as much as what words to use when. My favourite coding projects are below. CLick on a category to filter the projects.
 
 #
 # Portfolio Grid
 #
-portfolio-categories: [Python, C++, Bioinformatics, Games, Flight Simulation, Big Data]
+portfolio-categories: [Python, Cpp, Bioinformatics, Games, Flight Simulation, Big Data]
 portfolio:
 
 # Portfolio Item
@@ -105,14 +105,14 @@ portfolio:
   url: '#'
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [ Flight Simulation, Python]
+- title: B<span class="thin">MS</span> Shortest Distance 
+  categories: [Flight Simulation, Python]
   image: img-02.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [C++]
+  categories: [Cpp]
   image: img-03.jpg
   url: '#'
 
