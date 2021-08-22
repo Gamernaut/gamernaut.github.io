@@ -9,7 +9,7 @@
     .input-cursor {
       display: inline-block;
       width: 2px;
-      height: $size;
+      height: 42px;
       background-color: white;
       margin-left: 8px;
       animation: blink .6s linear infinite alternate;
