@@ -1,4 +1,4 @@
-const carouselText = [
+const twcarouselText = [
   {text: "IMAGINE", color: "white"},
   {text: "DEVELOP", color: "white"},
   {text: "INSPIRE", color: "white"}
@@ -6,7 +6,7 @@ const carouselText = [
 
 /* Cyno edit
 $( document ).ready(async function() {
-  carousel(carouselText, "#feature-text")
+  twcarousel(twcarouselText, "#feature-text")
 }); */
 
 async function typeSentence(sentence, eleRef, delay = 100) {
@@ -31,7 +31,7 @@ async function deleteSentence(eleRef) {
   }
 }
 
-async function carousel(carouselList, eleRef) {
+async function twcarousel(carouselList, eleRef) {
     var i = 0;
     while(true) {
       updateFontColor(eleRef, carouselList[i].color)
