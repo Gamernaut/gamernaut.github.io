@@ -50,7 +50,7 @@ lang: en-US
 # Header Title
 header-title: Insert typing JS file here
 # Header Tagline
-headter-tagline: Always aspiring to create
+headter-tagline: Develop  Inspire  Create
 
 
 #
@@ -70,38 +70,6 @@ twitter: '#'
 google-plus: '#'
 vimeo: '#'
 
-#########################
-######   Widgets   ######
-#########################
-
-#
-# About Blog Author Widget
-#
-about-widget:
-  author-avatar: avatar-02.jpg
-  author-name: John Doe
-  author-tagline: Blog Author
-  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
-  author-social-links:
-    youtube: '#'
-    pinterest: '#'
-    facebook: '#'
-    twitter: '#'
-    google-plus: '#'
-
-# Google Map JS api
-# This is my api for this template
-key-api: AIzaSyDbnxVZQannH0GF4gtnnBFPiP9ofm2WqGs
-map-text: Sera Google Map
-map-text-location: Bucharest, Romania
-map-lat: 44.4267674
-map-lng: 26.102538399999958
-
-# Enter your Mailchimp User ID and Campaign ID
-# @TODO: Add in a link for where to find these
-mailchimp:
-  user-id: REPLACEME
-  list-id: REPLACEME
 
 ####
 #
