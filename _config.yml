@@ -151,33 +151,6 @@ portfolio:
   url: '#'
 
 
-
-#####################################
-############### Team ################
-#####################################
-team-title: Meet Our Team
-team-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
-
-#
-# Team Members
-#
-team:
-
-# Team Member
-- name: Carmelo Volpe
-  tagline: Aspirant Developer
-  avatar: avatar-01.jpg
-
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
-
-
-
 #####################################
 ############   Contact   ############
 #####################################
