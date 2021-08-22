@@ -130,30 +130,30 @@ portfolio-description: Learning to code is like learning a natural language, you
 #
 # Portfolio Grid
 #
-portfolio-categories: [Websites, Logo, Graphic Design, Development, Video, Photography]
+portfolio-categories: [Python, C++, Bioinformatics, Games, Flight Simulation, Big Data]
 portfolio:
 
 # Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites, Graphic Design]
+- title: R<span class="thin">egulon</span>
+  categories: [Python, Bioinformatics]
   image: img-01.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [Graphic Design, Logo, Websites]
+  categories: [Graphic Design, Logo, Python]
   image: img-02.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [Graphic Design, Logo, Photography]
+  categories: [C++]
   image: img-03.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [Websites, Video, Photography]
+  categories: [Python, Video, Photography]
   image: img-04.jpg
   url: '#'
 
@@ -171,13 +171,13 @@ portfolio:
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [Websites, Graphic Design]
+  categories: [Python, Graphic Design]
   image: img-07.jpg
   url: '#'
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [Websites , Video]
+  categories: [Python , Video]
   image: img-08.jpg
   url: '#'
 
