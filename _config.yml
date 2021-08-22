@@ -102,7 +102,7 @@ portfolio:
 - title: R<span class="thin">egulon</span>
   categories: [Python, Bioinformatics]
   image: img-01.jpg
-  url: '#'
+  url: 'https://github.com/Gamernaut/Regulon'
 
 # Portfolio Item
 - title: B<span class="thin">MS</span> Shortest Distance 
