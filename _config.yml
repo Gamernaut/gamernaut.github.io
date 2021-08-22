@@ -17,9 +17,6 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md"]
 #
 baseurl:
 
-# the base hostname & protocol for your site
-#url: "http://localhost:3000"
-
 ####################################
 ######   Optional Features    ######
 ####################################
@@ -47,7 +44,7 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Oxyemoronic Software Solutions
+title: Oxymoronic Software Solutions
 # Website language
 lang: en-US
 # Header Title
@@ -141,7 +138,7 @@ portfolio:
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [Graphic Design, Logo, Python]
+  categories: [ Flight Simulation, Python]
   image: img-02.jpg
   url: '#'
 
@@ -159,7 +156,7 @@ portfolio:
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [Development, Logo]
+  categories: [Big Data]
   image: img-05.jpg
   url: '#'
 
@@ -183,7 +180,7 @@ portfolio:
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [Photography, Logo]
+  categories: [Games]
   image: img-09.jpg
   url: '#'
 
