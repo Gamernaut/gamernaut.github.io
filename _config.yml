@@ -51,9 +51,9 @@ title: Oxyemoronic Software Solutions
 # Website language
 lang: en-US
 # Header Title
-header-title: Create the <strong>Impossible</strong>
+header-title: Insert typing JS file here
 # Header Tagline
-headter-tagline: We Always
+headter-tagline: Always aspiring to create
 
 
 #
@@ -108,8 +108,6 @@ mailchimp:
 
 ####
 #
-# Hi you now use Sera - OnePage Jekyll Template created by Gleesik™
-#
 # Below are each section from the website in order from top to bottom
 # @TODO Edit each sections with your real information and each section from Sera will autocomplete with your information
 #
@@ -118,8 +116,8 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome to Sera
-about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+about-title: Welcome
+about-description: Here is a little bit about me
 
 
 
@@ -127,7 +125,7 @@ about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aene
 ############  Portfolio  ############
 #####################################
 portfolio-title: Portfolio
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+portfolio-description: Learning to code is like learning a natural language, you need to know how to use the (key)words as much as what words to use when. My favouritse coding projects are below and show the range and depth of my coding knowledge.
 
 #
 # Portfolio Grid
@@ -191,51 +189,6 @@ portfolio:
 
 
 
-
-#####################################
-########### Testimonials ############
-#####################################
-testimonials-title: Testimonials
-testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi.
-
-#
-# Testimonials
-#
-testimonials:
-
-# Client
-- name: Johnatan Doe
-  url: http://themeforest.net
-  url-text: ThemeForest.net
-  avatar: avatar-01.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: themeforest.png
-
-# Client
-- name: Adam Smith
-  url: http://codecanyon.net
-  url-text: CodeCanyon.net
-  avatar: avatar-02.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: codecanyon.png
-
-# Client
-- name: Irene Warner
-  url: http://videohive.net
-  url-text: VideoHive.net
-  avatar: avatar-03.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: videohive.png
-
-# Client
-- name: Richard Ryan
-  url: http://audiojungle.net
-  url-text: AudioJungle.net
-  avatar: avatar-04.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: audiojungle.png
-
-
 #####################################
 ############### Team ################
 #####################################
@@ -248,48 +201,9 @@ team-description: Nulla a tellus at turpis gravida congue non interdum et malesu
 team:
 
 # Team Member
-- name: Jack Skilton
-  tagline: Graphic Designer
+- name: Carmelo Volpe
+  tagline: Aspirant Developer
   avatar: avatar-01.jpg
-
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
-
-# Team Member
-- name: James Young
-  tagline: Developer
-  avatar: avatar-02.jpg
-
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
-
-# Team Member
-- name: Johnatan Doe
-  tagline: Hacker
-  avatar: avatar-04.jpg
-
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
-
-# Team Member
-- name: Ecaterina Doe
-  tagline: Support Expert
-  avatar: avatar-03.jpg
 
   # Social Links
   youtube: '#'
