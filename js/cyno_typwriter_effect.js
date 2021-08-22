@@ -4,9 +4,10 @@ const carouselText = [
   {text: "INSPIRE", color: "white"}
 ]
 
+/* Cyno edit
 $( document ).ready(async function() {
   carousel(carouselText, "#feature-text")
-});
+}); */
 
 async function typeSentence(sentence, eleRef, delay = 100) {
   const letters = sentence.split("");
