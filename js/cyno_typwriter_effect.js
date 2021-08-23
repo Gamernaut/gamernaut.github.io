@@ -1,7 +1,7 @@
 const twcarouselText = [
   {text: "IMAGINE", color: "white"},
-  {text: "DEVELOP", color: "white"},
-  {text: "INSPIRE", color: "white"}
+  {text: "DEVELOP", color: "yellow"},
+  {text: "INSPIRE", color: "red"}
 ]
 
 $( document ).ready(function() {  
