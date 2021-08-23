@@ -1,5 +1,5 @@
 const twcarouselText = [
-  {text: "IMAGINE", color: "red"},
+  {text: "IMAGINE", color: "white"},
   {text: "DEVELOP", color: "white"},
   {text: "INSPIRE", color: "white"}
 ]
@@ -36,7 +36,7 @@ async function twcarousel(carouselList, eleRef) {
     var i = 0;
     while(true) {
       updateFontColor(eleRef, carouselList[i].color)
-      $(eleRef).css('font-size', "60px");
+      $(eleRef).css('font-size', "55px");
       await typeSentence(carouselList[i].text, eleRef);
       await waitForMs(1500);
       await deleteSentence(eleRef);
