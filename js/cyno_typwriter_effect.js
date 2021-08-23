@@ -1,5 +1,5 @@
 const twcarouselText = [
-  {text: "IMAGINE", color: "white"},
+  {text: "IMAGINE", color: "blue"},
   {text: "DEVELOP", color: "yellow"},
   {text: "INSPIRE", color: "blue"}
 ]
