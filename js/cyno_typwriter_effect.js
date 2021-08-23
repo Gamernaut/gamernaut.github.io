@@ -14,7 +14,7 @@ async function typeSentence(sentence, eleRef, delay = 100) {
   const letters = sentence.split("");
   let i = 0;
   while(i < letters.length) {
-    await waitForMs(delay);
+    await waitForMs(Math.random() * 1000);
     $(eleRef).append(letters[i]);
     i++
   }
