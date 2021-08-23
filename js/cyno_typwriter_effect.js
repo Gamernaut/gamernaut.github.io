@@ -1,7 +1,7 @@
 const twcarouselText = [
   {text: "IMAGINE", color: "white"},
-  {text: "DEVELOP", color: "green"},
-  {text: "INSPIRE", color: "blue"}
+  {text: "DEVELOP", color: "white"},
+  {text: "INSPIRE", color: "white"}
 ]
 
 $( document ).ready(function() {  
@@ -47,7 +47,7 @@ async function twcarousel(carouselList, eleRef) {
 
 function updateFontColor(eleRef, color) {
   $(eleRef).css('color', color);
-    $(eleRef).css('font-size', "300%");
+    $(eleRef).css('font-size', "100px");
 }
 
 function waitForMs(ms) {
