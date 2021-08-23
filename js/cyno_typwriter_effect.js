@@ -10,7 +10,7 @@ $( document ).ready(function() {
   })();
 });
 
-async function typeSentence(sentence, eleRef, delay = 100) {
+async function typeSentence(sentence, eleRef, delay = 125) {
   const letters = sentence.split("");
   let i = 0;
   while(i < letters.length) {
@@ -38,7 +38,7 @@ async function twcarousel(carouselList, eleRef) {
       updateFontColor(eleRef, carouselList[i].color)
       $(eleRef).css('font-size', "55px");
       await typeSentence(carouselList[i].text, eleRef);
-      await waitForMs(1500);
+      await waitForMs(2000);
       await deleteSentence(eleRef);
       await waitForMs(500);
       i++
