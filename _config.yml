@@ -99,7 +99,7 @@ portfolio:
 # Portfolio Item
 - title: R<span class="thin">egulon</span>
   categories: [Python, Bioinformatics]
-  image: Bioinformatics2.png
+  image: Bioinformatics2.jpg
   url: 'https://github.com/Gamernaut/Regulon'
 
 # Portfolio Item
