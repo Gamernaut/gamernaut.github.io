@@ -93,7 +93,7 @@ portfolio-description: Learning to code is like learning a natural language, you
 #
 # Portfolio Grid
 #
-portfolio-categories: [Python, Cpp, Bioinformatics, Games, Flight Simulation, ML&AI]
+portfolio-categories: [Python, Cpp, Bioinformatics, Games, Flight Simulation, ML and AI]
 portfolio:
 
 # Portfolio Item
@@ -122,7 +122,7 @@ portfolio:
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [ML&AI, Python, Cpp]
+  categories: [ML and AI, Python, Cpp]
   image: img-05.jpg
   url: '#'
 
