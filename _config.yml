@@ -93,18 +93,18 @@ portfolio-description: Learning to code is like learning a natural language, you
 #
 # Portfolio Grid
 #
-portfolio-categories: [Python, Cpp, Bioinformatics, Games, Flight Simulation, Big Data, DS & Algorithms]
+portfolio-categories: [Python, Cpp, Bioinformatics, Games, Flight Simulation, ML & AI]
 portfolio:
 
 # Portfolio Item
 - title: R<span class="thin">egulon</span>
-  categories: [Python, Bioinformatics, DS & Algorithms]
+  categories: [Python, Bioinformatics]
   image: img-01.jpg
   url: 'https://github.com/Gamernaut/Regulon'
 
 # Portfolio Item
 - title: B<span class="thin">MS</span> Shortest Distance 
-  categories: [Flight Simulation, Python, DS & Algorithms]
+  categories: [Flight Simulation, Python]
   image: img-02.jpg
   url: 'https://github.com/Gamernaut/BMS_Visit_all_Airfields'
 
@@ -122,7 +122,7 @@ portfolio:
 
 # Portfolio Item
 - title: S<span class="thin">era</span> Style
-  categories: [Big Data]
+  categories: [ML & AI]
   image: img-05.jpg
   url: '#'
 
