@@ -47,6 +47,7 @@ async function twcarousel(carouselList, eleRef) {
 
 function updateFontColor(eleRef, color) {
   $(eleRef).css('color', color);
+  $(eleRef).css('fontSize', 80px);
 }
 
 function waitForMs(ms) {
