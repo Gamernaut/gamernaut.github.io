@@ -4,8 +4,10 @@ const twcarouselText = [
   {text: "INSPIRE", color: "white"}
 ]
 
-$( document ).ready(async function() {
-  twcarousel(twcarouselText, "#feature-text")
+$( document ).ready(function() {  
+  (async function(){
+    twcarousel(twcarouselText, "#feature-text")
+  })();
 });
 
 async function typeSentence(sentence, eleRef, delay = 100) {
