@@ -3354,11 +3354,11 @@ header.site-header .arrow-down-section .arrow-down i:before {
     display: block;
     position: fixed;
     width: 100%;
-    height: 80px;         /* Cyno edited from 60px */
+    height: 60px;         /* Cyno edited from 60px */
     top: 0;
     left: 15px;
-    min-height: 80px;      /* Cyno edited from 60px */
-    background: #3b79ff;   /* Cyno edited from #21c2f8 */
+    min-height: 60px;      /* Cyno edited from 60px */
+    background: #21c2f8;   /* Cyno edited from #21c2f8 */
     z-index: 99999999999999;
   }
   header.site-header .site-navigation-bar .navigation-bar {
