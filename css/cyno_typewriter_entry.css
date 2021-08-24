@@ -5,6 +5,11 @@ body {
   align-items: center;
   height: 100vh;
       
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+  
 .typing-container {
       display: flex;
       justify-content: center;
@@ -41,6 +46,3 @@ body {
   left: 0;
 }
 
-#header, #header * {
-  background: rgba(40, 40, 100, 0.25);
-}
