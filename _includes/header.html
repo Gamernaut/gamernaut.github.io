@@ -47,6 +47,13 @@
     </div>
 
     <!-- Site Header Banner -->
+    div.relative {
+       position: relative;
+       top: 200px;
+       border: 3px solid green;
+    }
+    
+    
     <div class="row header-banner parent" data-scrollax="properties: { 'translateY': '48%', 'opacity': '1.4' }">
 
       <div class="heading-content text-center child-center-v">
@@ -62,7 +69,7 @@
         <div class="row heading-title">
           <hr class="small">
           <div style="text-align:center; position:relative; min-height: 400px; border: 2px solid yellow">
-            <div style="display: block; margin-left: auto; margin-right: auto; top: 200px; border: 2px solid green">
+            <div class="relative">
               <h2 class="thin">{{ site.header-title }}</h2>
               <h3 class="thin">{{ site.header-tagline }}</h3>
                 <table style="display: block; margin-left: auto; margin-right: auto;border: 2px solid white">
