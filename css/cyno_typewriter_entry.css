@@ -5,10 +5,12 @@ body {
   align-items: center;
   height: 100vh;
       
-.flex-container {
-  display: flex;
-  flex-direction: row;
-  background-color: DodgerBlue;
+.center-bottom_element {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%)
 }
   
 .typing-container {
