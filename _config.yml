@@ -107,7 +107,7 @@ portfolio:
 # Portfolio Item
 - title: B<span class="thin">MS</span> Shortest Distance 
   categories: [Flight Simulation, Python]
-  image: F16-enroute.jpg
+  image: BMS-map.jpg
   url: 'https://github.com/Gamernaut/BMS_Visit_all_Airfields'
 
 # Portfolio Item
