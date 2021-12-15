@@ -105,13 +105,13 @@ portfolio:
 # Portfolio Item
 - title: B<span class="thin">MS</span> Shortest Distance 
   categories: [Flight Simulation, Python]
-  image: F16-enroute.png
+  image: F16-enroute.jpg
   url: 'https://github.com/Gamernaut/BMS_Visit_all_Airfields'
 
 # Portfolio Item
 - title: S<span class="thin">A Trainer</span>
   categories: [Flight Simulation, Cpp]
-  image: F16-cockpit.png
+  image: F16-cockpit.jpg
   url: 'https://github.com/Gamernaut/SA_Trainer'
 
 
