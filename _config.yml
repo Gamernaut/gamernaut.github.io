@@ -82,7 +82,7 @@ vimeo: '#'
 #############   About   #############
 #####################################
 about-title: About 
-about-description: I started writing software on a VIC-20 in the mid 80's and have been hooked ever since. I'm completely self taught (having started with BASIC in the 80s) and devour anything I can find in books, on the web or in other peoples code to increase my knowledge. I have a background in the sciences and an engineering mindset and am a natural problem solver. I'd love to build some kind of Space/Flight simulator, which I see as an ongoing lifetime project. I also enjoying learning about algoritms and how more advanced algorithms (AI/ML, Genetic Algorithms etc.) can be applied biological scientific problems. See my portfolio below for a few examples of what I can do.
+about-description: I started writing software on a VIC-20 in the mid 80's and have been hooked ever since. I'm completely self taught and devour anything I can find in books, on the web or in other peoples code to increase my knowledge. \nI have a background in the sciences, an engineering mindset and am a natural problem solver. I'm a big fan of combat flight simulators and would love to build a ralistic Space/Flight simulator. I also enjoy learning about algoritms and how more advanced algorithms (AI/ML, Genetic Algorithms etc.) can be applied biological scientific problems. See my portfolio below for a few examples of what I can do.
 
 #####################################
 ############  Portfolio  ############
@@ -93,7 +93,7 @@ portfolio-description: Programming to me is very much like my scientific apporac
 #
 # Portfolio Grid
 #
-portfolio-categories: [Python, Cpp, Bioinformatics, Flight Simulation, ML and AI]
+portfolio-categories: [Python, Cpp, Bioinformatics, Flight Simulation]
 portfolio:
 
 # Portfolio Item
