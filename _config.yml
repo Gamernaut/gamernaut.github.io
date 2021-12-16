@@ -105,7 +105,7 @@ portfolio:
   url: 'https://github.com/Gamernaut/Regulon'
 
 # Portfolio Item
-- title: S<span class="thin">Shortest Path</span>
+- title: S<span class="thin">hortest Route</span>
   categories: [Flight Simulation, Python]
   image: BMS-map.jpg
   url: 'https://github.com/Gamernaut/BMS_Visit_all_Airfields'
