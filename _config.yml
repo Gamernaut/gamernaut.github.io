@@ -105,7 +105,7 @@ portfolio:
   url: 'https://github.com/Gamernaut/Regulon'
 
 # Portfolio Item
-- title: B<span class="thin">MS Shortest Distance</span>
+- title: B<span class="thin">MS Shortest</span>
   categories: [Flight Simulation, Python]
   image: BMS-map.jpg
   url: 'https://github.com/Gamernaut/BMS_Visit_all_Airfields'
