@@ -99,7 +99,7 @@ portfolio-categories: [Python, Cpp, Bioinformatics, Flight Simulation]
 portfolio:
 
 # Portfolio Item
-- title: S<span class="thin">equence Matching</span>
+- title: D<span class="thin">NA Matching</span>
   categories: [Python, Bioinformatics]
   image: genetic-science-dna-molecule.jpg
   url: 'https://github.com/Gamernaut/Regulon'
