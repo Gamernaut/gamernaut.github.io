@@ -111,10 +111,10 @@ portfolio:
   url: 'https://github.com/Gamernaut/BMS_Visit_all_Airfields'
 
 # Portfolio Item
-- title: S<span class="thin">A Trainer</span>
+- title: B<span class="thin">ullseye Trainer</span>
   categories: [Flight Simulation, Cpp]
   image: F16-cockpit.jpg
-  url: 'https://github.com/Gamernaut/SA_Trainer'
+  url: 'https://github.com/Gamernaut/Bullseye-Trainer'
 
 
 #####################################
